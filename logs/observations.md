@@ -11,4 +11,8 @@ Examples of what belongs here:
 - An explanation was not intuitive
 - A real situation revealed a new need
 
-*No entries yet.*
+## S001 — First survival seed
+
+- Pointing + short demonstrative + "s'il vous plaît" is extremely natural in French shops and cafés.
+- "Ça" is the most flexible and frequent neutral form.
+- Gender agreement (celui-ci / celle-ci) is useful but "ça" covers many real situations.

@@ -2,11 +2,11 @@
 
 ## Capabilities I can use
 
-- (none yet — garden just planted)
+- Ask for an object by pointing and using Celui-ci / Celle-ci / Ça + s'il vous plaît
 
 ## Seeds growing
 
-- (none yet)
+- basic-request (L00) — can produce and transform the core pattern; still benefits from more real-life repetition
 
 ## Weak capabilities
 
@@ -14,11 +14,12 @@
 
 ## Recently practiced
 
-- (none yet)
+- S001 — basic-request (Celui-ci, s'il vous plaît)
 
 ## Patterns I can reuse
 
-- (none yet)
+- [Demonstrative] + s'il vous plaît
+- Gender/distance forms: Celui-ci / Celle-ci / Ça / Celui-là / Celle-là
 
 ## Known problems
 
@@ -26,13 +27,14 @@
 
 ## Open communication gaps
 
-- Asking for something simply
 - Signaling that I don't understand
 - Asking someone to repeat or speak more slowly
 - Asking what something is
 - Asking where something is
 - Thanking someone politely
+- Saying what I want more explicitly
+- Concrete nouns for requests and location questions
 
 ---
 
-*Garden initialized. Ready for first sprint.*
+*Updated after logging S001.*
