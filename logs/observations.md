@@ -22,3 +22,9 @@ Examples of what belongs here:
 - “Je ne comprends pas.” is clear and widely understood.
 - The short form “Pardon ?” is extremely useful for quick clarification.
 - Natural next extensions: ask someone to repeat, ask them to speak more slowly, or combine with the existing request pattern.
+
+## S003 — Ask to repeat
+
+- User prefers the more polite conditional form “Pourriez-vous répéter, s'il vous plaît ?”.
+- Both “Pourriez-vous” and “Vous pouvez” are useful; the conditional is the safer, more polite default.
+- Full short repair chain is now available: Je ne comprends pas → Pourriez-vous répéter, s'il vous plaît ?
