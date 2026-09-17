@@ -16,3 +16,9 @@ Examples of what belongs here:
 - Pointing + short demonstrative + "s'il vous plaît" is extremely natural in French shops and cafés.
 - "Ça" is the most flexible and frequent neutral form.
 - Gender agreement (celui-ci / celle-ci) is useful but "ça" covers many real situations.
+
+## S002 — Basic repair planted
+
+- “Je ne comprends pas.” is clear and widely understood.
+- The short form “Pardon ?” is extremely useful for quick clarification.
+- Natural next extensions: ask someone to repeat, ask them to speak more slowly, or combine with the existing request pattern.

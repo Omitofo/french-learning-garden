@@ -1,18 +1,20 @@
 # Seed: basic-repair
 
 **Zone:** L00 — Survival  
-**Status:** new
+**Status:** growing
 
 ## Capability
 
 Be able to signal that I don't understand and keep the interaction going.
 
-## Core pattern (planned)
+## Core pattern learned
 
 Je ne comprends pas.  
 Pardon ?  
-Vous pouvez répéter, s'il vous plaît ?
+Désolé, je ne comprends pas.
 
 ## Notes
 
-- Not yet practiced.
+- Successfully tested in S002.
+- User can produce the core phrase and short variants.
+- Next natural growth: ask someone to repeat, ask them to speak more slowly, or chain with request + repair.
