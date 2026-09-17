@@ -28,3 +28,9 @@ Examples of what belongs here:
 - User prefers the more polite conditional form “Pourriez-vous répéter, s'il vous plaît ?”.
 - Both “Pourriez-vous” and “Vous pouvez” are useful; the conditional is the safer, more polite default.
 - Full short repair chain is now available: Je ne comprends pas → Pourriez-vous répéter, s'il vous plaît ?
+
+## S004 — Speak more slowly
+
+- Strong reuse of the “Pourriez-vous + infinitive” pattern.
+- Short forms (“Plus lentement, s'il vous plaît”) are also very practical.
+- Full survival clarity toolkit is now available: don’t understand → please repeat → speak more slowly.
